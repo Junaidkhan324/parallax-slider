@@ -1,0 +1,1311 @@
+.field--name-field-communities {
+  display: block !important;
+}
+
+#edit-field-communities--2>div {
+  width: 50%;
+  float: left;
+}
+
+#edit-field-communities>div {
+  width: 50%;
+  float: left;
+}
+
+#edit-field-communities--2 .checkbox-field {
+  /*width: 49% !important;*/
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+#edit-field-communities .checkbox-field {
+  /*width: 49% !important;*/
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+#edit-field-communities--2 .checkbox-label {
+  padding-left: 30px !important;
+}
+
+#edit-field-communities .checkbox-label {
+  padding-left: 30px !important;
+}
+
+.field--name-field-communities {
+  width: 100%;
+}
+
+.field--name-field-communities select {
+  height: 300px;
+}
+
+.compare-fixed .compare-wrapper.homes {
+  background-color: #fff !important;
+}
+
+.no-pad-compare {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.compare-padding {
+  padding-top: 180px;
+}
+
+.appointment-btn {
+  width: 100%;
+  float: none;
+  margin: 0 auto;
+}
+
+.section-community {
+  padding-top: 75px;
+}
+
+.section-community-container-ccd {
+  display: flex;
+  max-width: 735px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.community-details-left {
+  padding-right: 40px;
+  padding-top: 25px;
+}
+
+.community-details-right {
+  background: rgb(229 229 229 / 50%);
+  padding: 10px;
+}
+
+.community-details-right iframe {
+  border: none;
+  width: 310px;
+  height: 435px;
+}
+
+.center-directions p {
+  text-align: center;
+}
+
+.container.visit {
+  border: 0;
+  margin-top: 65px;
+}
+
+.community-node-custom-wrapper .section-features {
+  padding-top: 30px;
+  padding-bottom: 0;
+}
+
+.community-node-custom-wrapper .section-amenities {
+  padding: 40px 15px 0px;
+}
+
+.community-node-custom-wrapper .section-homes {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.community-node-custom-wrapper .section-plans {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.community-node-custom-wrapper .section-team {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.community-node-custom-wrapper .more-communities {
+  padding-top: 40px;
+}
+
+.community-node-custom-wrapper .container.features {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.community-node-custom-wrapper .promo-wrapper {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.community-node-custom-wrapper .column-promo {
+  margin-top: 0;
+}
+
+.community-node-custom-wrapper .section-team .container {
+  padding-top: 20px;
+}
+
+.community-node-custom-wrapper .sales-text {
+  font-size: 18px;
+  font-family: 'Avenir light', sans-serif;
+  line-height: 24px;
+}
+
+@media (max-width: 767px) {
+  .section-community-container-ccd {
+    display: block;
+  }
+
+  .community-details-left {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 767px) {
+  .empty-div~.btn-div.video a {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 767px) {
+  .empty-div~.btn-div.single {
+    margin-top: 80px;
+  }
+}
+
+input[type='checkbox'].checkbox:checked+label {
+  background-image: url('../images/checkbox-checked.png');
+}
+
+.compare-page .details-link {
+  float: none !important;
+  width: 100% !important;
+}
+
+.compare-page .checkbox-wrapper {
+  display: none;
+}
+
+/*.checkbox {
+  left: 20px !important;
+  top: 15px !important;
+  -webkit-appearance: 0 !important;
+}*/
+
+.choose-plan img {
+  height: 100%;
+}
+
+/*community amenities map*/
+.community-amenities-map {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+}
+
+.mega .w-dropdown-link {
+  white-space: normal;
+}
+
+select.select {
+  -webkit-appearance: none;
+  border-radius: 0px;
+}
+
+input,
+textarea {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+.hero-section img {
+  object-fit: cover;
+  width: 100%;
+  height: 700px !important;
+}
+
+@media (max-width: 700px) {
+  .hero-section img {
+    object-fit: cover;
+    width: 100%;
+    height: 400px !important;
+  }
+}
+
+.house img {
+  width: 100%;
+}
+
+.slide-cover {
+  object-fit: cover;
+  height: 100%;
+}
+
+.gallery-image img {
+  width: 33.33%;
+  /*height :450px*/
+}
+
+.image .border {
+  object-fit: cover;
+}
+
+.gallery-select-wrapper {
+  left: 0;
+  top: -69px;
+}
+
+.gallery-image img {
+  width: 100%;
+}
+
+.gallery-animation {
+  position: fixed;
+  top: 0;
+  -ms-transition: all 500ms ease 0ms;
+  -webkit-transition: all 500ms ease 0ms;
+  transition: all 500ms ease 0ms;
+  z-index: 1000;
+}
+
+.pager--load-more ul,
+ul.pager__items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.news h3 {
+  text-align: left;
+}
+
+.tags {
+  display: inline-block;
+}
+
+.tags div {
+  display: inline-block;
+}
+
+.news-card {
+  width: 100%;
+}
+
+.inline-element {
+  display: inline-block;
+}
+
+#views-exposed-form-communities-communities .w-tab-link,
+#views-exposed-form-communities-communities-2 .w-tab-link,
+#views-exposed-form-available-homes-available-homes .w-tab-link,
+#views-exposed-form-available-plans-available-plans .w-tab-link {
+  position: relative;
+}
+
+#views-exposed-form-communities-communities .w-tab-link label,
+#views-exposed-form-communities-communities-2 .w-tab-link label,
+#views-exposed-form-available-homes-available-homes .w-tab-link label,
+#views-exposed-form-available-plans-available-plans .w-tab-link label {
+  margin: 0;
+  font-size: 14px;
+}
+
+#views-exposed-form-communities-communities .w-tab-link input[type='radio'],
+#views-exposed-form-communities-communities-2 .w-tab-link input[type='radio'],
+#views-exposed-form-available-homes-available-homes .w-tab-link input[type='radio'],
+#views-exposed-form-available-plans-available-plans .w-tab-link input[type='radio'] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+#views-exposed-form-communities-communities .w-tab-link input[type='radio']:hover,
+#views-exposed-form-communities-communities-2 .w-tab-link input[type='radio']:hover,
+#views-exposed-form-available-homes-available-homes .w-tab-link input[type='radio']:hover,
+#views-exposed-form-available-plans-available-plans .w-tab-link input[type='radio']:hover {
+  cursor: pointer;
+}
+
+.column-community.card-view {
+  position: relative;
+  overflow: hidden;
+}
+
+.column-community.card-view img {
+  object-fit: cover;
+  width: 100%;
+  height: 372px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.community-card-image {
+  position: relative;
+}
+
+/*.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  box-shadow: 1px 1px 3px 0 rgba(0,0,0,.15);
+  border-radius: 0;
+}
+
+.leaflet-popup-content p {
+  margin: 0 0 20px 0;
+}
+.leaflet-popup-content h4 {
+  color: #231f20;
+}
+.leaflet-container a {
+  color: #c71d6c;
+}
+.leaflet-popup-tip, .leaflet-popup-close-button {
+  display: none;
+}*/
+.logo-div {
+  padding-left: 5%;
+}
+
+@media screen and (max-width: 1250px) {
+  .logo-div {
+    padding-left: 10%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .logo-div {
+    padding-left: 12%;
+  }
+}
+
+input[type='radio'] {
+  background: transparent;
+}
+
+.contextual {
+  z-index: 50000;
+}
+
+strong {
+  font-family: 'Avenir heavy', sans-serif;
+}
+
+#toolbar-administration {
+  z-index: 99999;
+}
+
+details.captcha.js-form-wrapper.form-wrapper.collapse-processed {
+  clear: both;
+}
+
+.google-map-pop-up p {
+  margin: 0;
+}
+
+.google-map-pop-up h4 {
+  color: #231f20;
+}
+
+.dc-text-block.contact-text.left-align p {
+  font-family: 'Avenir medium', sans-serif;
+  color: #231f20;
+  font-size: 16px !important;
+  line-height: 25px;
+  text-align: left;
+}
+
+.process-wrapper p {
+  font-family: 'Avenir roman', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: left;
+}
+
+.process-wrapper ul li {
+  margin-bottom: 10px;
+}
+
+.lower-case {
+  text-transform: lowercase;
+}
+
+.slide.w-slide.compat-object-fit .slide-cover,
+.hero-section.compat-object-fit img {
+  opacity: 0;
+}
+
+.slide.w-slide.compat-object-fit,
+.hero-section.compat-object-fit {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.user-login-form {
+  max-width: 1024px;
+  margin: 20px auto;
+}
+
+.user-login-form #edit-actions {
+  position: relative;
+  z-index: 9;
+}
+
+.captcha {
+  width: 80%;
+  margin: 15px auto 20px;
+  clear: both;
+}
+
+.g-recaptcha>div {
+  width: auto !important;
+  text-align: center;
+}
+
+div.form-item-field-community-city-target-id {
+  display: none;
+}
+
+a.select-city {
+  cursor: pointer;
+}
+
+.coming-soon-link {
+  pointer-events: none;
+}
+
+.find-your-home-container .w-tab-pane.houston-pane.w--tab-active #edit-area option.dallas,
+.find-your-home-container .w-tab-pane.dallas-pane.w--tab-active #edit-area option.houston {
+  display: none;
+}
+
+.community-search-city-container.communities-page {
+  padding-top: 150px;
+}
+
+
+
+.sale-price {
+  font-family: 'Avenir medium', sans-serif;
+  color: #231f20;
+  font-size: 20px;
+  text-align: right;
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+.city-toggle {
+  display: inline-block;
+  width: auto;
+}
+
+.city-link-block {
+  display: inline-block;
+  padding: 10px 30px 0 30px;
+  width: auto;
+}
+
+.card-sale-price.sale-price {
+  font-size: 18px;
+  text-align: left;
+}
+
+.lot-size-filter .w--current {
+  border: 1.5px solid #c71d6c;
+  border-radius: 100px;
+  background-color: #fff;
+  color: rgba(35, 31, 32, 0.8);
+  letter-spacing: 1px;
+}
+
+.contact-comments {
+  margin-bottom: 15px;
+}
+
+.logo-mark-wrapper {
+  background-image: url('../images/promo-header.png');
+}
+
+.promo-text-learn-more a,
+.event-text-learn-more a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#big-menu-buttons a {
+  float: right;
+  margin: 0px 10px 10px 0px;
+  position: relative;
+  right: auto;
+  bottom: auto;
+}
+
+@media (min-width: 992px) {
+  .w-nav-link:nth-child(3) {
+    display: none;
+  }
+}
+
+#houston-communities .w-tab-link {
+  margin-top: 10px;
+}
+
+/* Greater place to work emblem on footer and /careers header */
+.footer-wrapper .footer {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.footer-logos {
+  float: none;
+  padding: 0 40px;
+  width: initial;
+}
+
+.footer-logos:first-child {
+  text-align: right;
+  width: 520px;
+}
+
+#gptw-header {
+  position: absolute;
+  object-fit: initial;
+  width: 200px;
+  height: auto !important;
+  bottom: -185px;
+  right: 10%;
+  z-index: 501;
+}
+
+#gptw-footer {
+  height: 130px;
+}
+
+@media (max-width: 1400px) {
+  #gptw-header {
+    right: 5%;
+    bottom: -105px;
+    width: 125px;
+  }
+
+  #gptw-footer {
+    height: 100px;
+  }
+
+  .footer-logos:first-child,
+  .footer-logos {
+    width: 33%;
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 980px) {
+  #gptw-header {
+    right: 3%;
+    width: 100px;
+    bottom: -85px;
+  }
+
+  .footer-wrapper .footer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-logos:first-child,
+  .footer-logos {
+    width: initial;
+  }
+}
+
+@media (max-width: 768px) {
+  #gptw-header {
+    display: none;
+  }
+
+  .w-clearfix.benefits-block::after {
+    content: '';
+    height: 150px;
+    width: 210px;
+    background-image: url(http://legendhomeshouston.com/sites/legendhomecorp.com/themes/webflow/images/TWP_Houston_2019_AW_Dark.png);
+    background-size: contain;
+    background-position-y: 30px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
+}
+
+/* end */
+.promo-wrapper {
+  justify-content: center;
+}
+
+.promo-header {
+  border: none;
+}
+
+.home-featured-promotion .promo-header {
+  border-bottom: 4px solid #f38a48;
+}
+
+.community-home-features-section {
+  padding-bottom: 0;
+}
+
+/* EXTERNAL LINK */
+.nav-menu .external-link {
+  position: relative;
+}
+
+.nav-menu .external-link:after {
+  content: '';
+  background: url('../images/new-page.png');
+  width: 14px;
+  height: 14px;
+  background-size: 14px 15px;
+  position: absolute;
+  top: 22px;
+  left: 93px;
+}
+
+/* REVIEWS widget */
+#gq3-reviews-widget {
+  max-width: 960px;
+  margin: 30px auto;
+}
+
+#gq3-reviews-widget h2 {
+  font-family: 'Avenir medium', sans-serif !important;
+  color: #231f20 !important;
+  font-size: 32px !important;
+  line-height: 36px !important;
+}
+
+#gq3-reviews-widget h3 span {
+  font-family: 'Avenir medium', sans-serif !important;
+  color: #f1672a !important;
+  font-size: 22px !important;
+  line-height: 30px !important;
+}
+
+#gq3-reviews-widget h4 {
+  font-family: 'Avenir Book', sans-serif !important;
+  color: #808080 !important;
+  font-size: 18px !important;
+}
+
+#gq3-reviews-widget p {
+  font-family: 'Avenir Lite', sans-serif !important;
+  color: #231f20 !important;
+  font-size: 18px !important;
+}
+
+#gq3-reviews-widget .gq-embed_cta a.gq-embed_cta-button {
+  font-family: 'Avenir medium', sans-serif !important;
+  background-color: #c71d6c !important;
+  color: #fff !important;
+  font-size: 15px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  margin-top: 16px !important;
+}
+
+/* Not Ready To Buy Page */
+@media (min-width: 550px) {
+  .key-house img {
+    max-width: 500px;
+  }
+}
+
+.calculated-value {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Contact Us form */
+#edit-contact-name-wrapper--2 {
+  width: 50%;
+  margin-top: 15px;
+  padding-right: 10px;
+  float: left;
+}
+
+#edit-contact-email-wrapper--2 {
+  width: 50%;
+  margin-top: 15px;
+  padding-left: 10px;
+  float: left;
+}
+
+#edit-submit--2 {
+  padding: 15px 20px;
+  background-color: #c71d6c;
+  -webkit-transition: background-color 250ms ease;
+  transition: background-color 250ms ease;
+  font-family: 'Avenir medium', sans-serif;
+  color: #fff;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 0;
+  cursor: pointer;
+}
+
+
+/* ------------ New Landing Page ----------------- */
+.logo-wrapper {
+  margin: 0 auto;
+  text-align: center;
+  padding: 33px 0;
+}
+
+.logo-wrapper a,
+.logo-wrapper a img,
+.logo-wrapper a div {
+  width: 258px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.home-banner-image img {
+  width: 100%;
+  height: 858px;
+  object-fit: fill;
+}
+
+.home-banner-image .banner-text {
+  position: absolute;
+  top: 420px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+}
+
+.home-banner-image .banner-text h1 {
+  text-align: center;
+}
+
+.banner-bottom-section {
+  background: #dc563e;
+  background: -moz-linear-gradient(top, #dc563e 0%, #b43f50 50%, #802268 100%);
+  background: -webkit-linear-gradient(top, #dc563e 0%, #b43f50 50%, #802268 100%);
+  background: linear-gradient(to bottom, #dc563e 0%, #b43f50 50%, #802268 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dc563e', endColorstr='#802268', GradientType=0);
+  padding: 55px 0 75px;
+}
+
+.banner-bottom-section .banner-bottom-inner {
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.banner-bottom-section .form-section {
+  width: 570px;
+  margin-top: -275px;
+}
+
+.banner-bottom-section .form-section .form-header h3 {
+  background: url(../images/banner-title-bg.png) no-repeat center top;
+  background-size: cover;
+  font-size: 34px;
+  text-transform: uppercase;
+  line-height: 1.2;
+  color: #fff;
+  margin: 0px;
+  padding: 30px 10px;
+}
+
+.banner-bottom-section .w-form {
+  background: #fff;
+  margin: 0px;
+  padding: 45px 40px 35px;
+}
+
+.banner-bottom-section .w-form .contact-field-left,
+.banner-bottom-section .w-form .contact-field-right {
+  width: 100%;
+  margin: 0;
+  float: none;
+  padding: 0;
+}
+
+.banner-bottom-section .w-form form input,
+.banner-bottom-section .w-form form select {
+  margin: 0 0 15px;
+  border: none;
+  background: #ebebeb;
+  font-size: 15px;
+  line-height: 1.2;
+  height: 33px;
+  color: #767676;
+}
+
+.banner-bottom-section .w-form form select {
+  padding: 6px 12px;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+.banner-bottom-section .w-form form input::placeholder {
+  color: #767676;
+}
+
+.banner-bottom-section .w-form form select option {
+  font-size: 14px;
+  margin: 0 0 2px;
+}
+
+.banner-bottom-section .w-form .contact-field-left.communities-interest {
+  position: relative;
+}
+
+.banner-bottom-section .w-form .contact-field-left.communities-interest::after {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 12px solid #959595;
+  content: "";
+  position: absolute;
+  right: 15px;
+  top: 11px;
+  pointer-events: none;
+}
+
+.banner-bottom-section .w-form .contact-field-right divlabel {
+  font-size: 15px;
+  margin: 0 0 10px;
+  line-height: 1.2;
+  color: #767676;
+}
+
+.banner-bottom-section .w-form form input[type="submit"] {
+  background: url(../images/banner-btn-bg.png) no-repeat center top;
+  background-size: cover;
+  font-size: 24px;
+  height: 62px;
+  margin: 10px 0 0;
+  outline: none;
+  display: block;
+  width: 100%;
+  color: #fff;
+}
+
+.banner-bottom-section .home-details {
+  width: 510px;
+}
+
+.banner-bottom-section .home-details .banner-title-wrapper {
+  font-size: 34px;
+  text-transform: uppercase;
+  line-height: 1.2;
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.banner-bottom-section .home-details .banner-description-wrapper {
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.5;
+}
+
+.map-wrapper-All_Areas {
+  background: url(../images/site-map-bg.png) no-repeat center top;
+  background-size: cover;
+  padding: 50px 0 90px;
+  margin: -4px 0 0;
+}
+
+.map-wrapper-All_Areas .map {
+  max-width: 1140px;
+  width: 100%;
+  margin: 50px auto 0;
+}
+
+.homes-heading {
+  margin: 70px 0 0;
+}
+
+.homes-heading h2 {
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.community-search-city-container h3.center {
+  font-size: 34px;
+  color: #000000;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.houston-landing-page .views-element-container {
+  max-width: 1140px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+.houston-landing-page .views-element-container .city-name-wrapper {
+  margin: 30px auto;
+}
+
+.houston-landing-page .views-element-container .city-name-wrapper h3 {
+  background: url(../images/city-title-bg1.png) no-repeat center top;
+  background-size: cover;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 15px 5px;
+}
+
+.houston-landing-page .views-element-container .city-name-wrapper.conroe h3,
+.houston-landing-page .views-element-container .city-name-wrapper.humble h3 {
+  background: url(../images/city-title-bg2.png) no-repeat center top;
+  background-size: cover;
+}
+
+.houston-landing-page .views-element-container .city-name-wrapper.bryan h3,
+.houston-landing-page .views-element-container .city-name-wrapper.porter h3 {
+  background: url(../images/city-title-bg3.png) no-repeat center top;
+  background-size: cover;
+}
+
+.houston-landing-page .views-element-container .home-location-wrapper {
+  display: inline-block;
+  width: 32.5%;
+  margin: 0 10px 40px 0;
+}
+
+.houston-landing-page .views-element-container .home-location-wrapper:last-child {
+  margin-right: 0px;
+}
+
+.houston-landing-page .views-element-container .home-location-wrapper .card-image-wrapper {
+  position: relative;
+}
+
+.houston-landing-page .views-element-container .home-location-wrapper .homes-label,
+.houston-landing-page .views-element-container .homes-card .detail .details-title {
+  text-align: center;
+}
+
+.houston-landing-page .views-element-container .homes-card .detail {
+  margin: 0 -2px;
+}
+
+.houston-landing-page .views-element-container .homes-card .card-address a {
+  color: #c71d6c;
+}
+
+.houston-landing-page .views-element-container .homes-card .details-cta a {
+  width: 100%;
+  background-color: #f1f1f1;
+  background-image: url(../images/t-pink-arrow.svg);
+  background-position: 32% 50%;
+  background-size: 7px;
+  background-repeat: no-repeat;
+  -webkit-transition: background-color 250ms ease;
+  transition: background-color 250ms ease;
+  color: #c71d6c;
+  line-height: 43px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0 20px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.houston-landing-page .views-element-container .homes-card .card-house-plan {
+  padding-left: 0px;
+}
+
+.houston-landing-page .views-element-container:last-child {
+  margin-bottom: 100px;
+}
+
+.explore-communities-div {
+  background: #000;
+  padding: 32px 0 38px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.explore-communities-div .community-btn-wrapper a {
+  background: url(../images/explore-bg.png) no-repeat center top;
+  background-size: cover;
+  width: 415px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  text-decoration: none;
+  color: #fff;
+}
+
+.explore-communities-div .community-btn-wrapper span {
+  font-size: 22px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #fff;
+  display: block;
+  text-align: center;
+  width: 100%;
+  padding: 0 0 0 40px;
+}
+
+.explore-communities-div .community-btn-wrapper img {
+  opacity: 0.7;
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+#edit-field-utm-link-wrapper,
+#edit-field-utm-source-wrapper,
+#edit-field-utm-campaign-wrapper,
+#edit-field-utm-medium-wrapper,
+#edit-field-utm-content-wrapper,
+#edit-field-community-name-lead-wrapper,
+#edit-field-utm-link-wrapper--2,
+#edit-field-utm-source-wrapper--2,
+#edit-field-utm-campaign-wrapper--2,
+#edit-field-utm-medium-wrapper--2,
+#edit-field-utm-content-wrapper--2,
+#edit-field-utm-link-wrapper--3,
+#edit-field-utm-source-wrapper--3,
+#edit-field-utm-campaign-wrapper--3,
+#edit-field-utm-medium-wrapper--3,
+#edit-field-utm-content-wrapper--3,
+#edit-field-community-name-lead-wrapper,
+#edit-field-contact-last-name-0-format--3 {
+	display:none;
+}
+
+#edit-field-communities-cs-lp-wrapper--2 label,
+#edit-field-communities-of-interest-da-wrapper--2 label,
+#edit-field-communities-lp-hou-wrapper--2 label {
+	background:none;
+	padding-left:0;
+}
+
+#edit-field-communities-cs-lp--2,
+#edit-field-communities-of-interest-da--2,
+#edit-field-communities-lp-hou--2 {
+	display:block;
+	width:100%;
+}
+
+.contact-message-community-lead-form-form.contact-message-form label {
+	text-align:left;
+}
+
+.contact-message-community-lead-form-form.contact-message-form #edit-submit {
+	padding: 15px 20px;
+    background-color: #c71d6c;
+    -webkit-transition: background-color 250ms ease;
+    transition: background-color 250ms ease;
+    font-family: 'Avenir medium', sans-serif;
+    color: #fff;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+	display:block;
+	border:none;
+	cursor:pointer;
+	width:100%;
+}
+
+.contact-message-community-lead-form-form.contact-message-form #edit-submit:hover {
+	background-color: #a2004b;
+}
+
+/* --- Responsive ----*/
+@media (max-width: 1199px) {
+  .logo-wrapper {
+    padding: 35px 0 25px;
+  }
+
+  .logo-wrapper a,
+  .logo-wrapper a img,
+  .logo-wrapper a div {
+    width: 228px;
+  }
+
+  .banner-bottom-section .banner-bottom-inner,
+  .houston-landing-page .views-element-container {
+    padding: 0 25px;
+  }
+
+  .banner-bottom-section .form-section {
+    width: 50%;
+    margin-top: -225px;
+  }
+
+  .home-banner-image img {
+    height: auto;
+  }
+
+  .home-banner-image .banner-text {
+    top: 350px;
+  }
+
+  .banner-bottom-section .home-details {
+    width: 45%;
+  }
+
+  .map-wrapper-All_Areas {
+    padding: 50px 25px 90px;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper {
+    width: 32.3%;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper .card-house {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  .banner-bottom-section .form-section .form-header h3 {
+    font-size: 28px;
+    padding: 20px 10px;
+  }
+
+  .banner-bottom-section .home-details .banner-title-wrapper,
+  .community-search-city-container h3.center,
+  .homes-heading h2 {
+    font-size: 28px;
+  }
+
+  .banner-bottom-section .form-section {
+    margin-top: -155px;
+  }
+
+  .banner-bottom-section .w-form {
+    padding: 45px 30px 35px;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper {
+    width: 49%;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper:nth-child(3) {
+    margin-right: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner-bottom-section .form-section {
+    width: 100%;
+    margin-top: -130px;
+  }
+
+  .banner-bottom-section .form-section .form-header h3 {
+    font-size: 24px;
+  }
+
+  .home-banner-image .banner-text {
+    top: 260px;
+  }
+
+  .banner-bottom-section .w-form form input[type="submit"] {
+    font-size: 20px;
+    height: 50px;
+  }
+
+  .banner-bottom-section .home-details {
+    width: 100%;
+    margin: 70px auto 20px;
+  }
+
+  .banner-bottom-section .home-details .banner-title-wrapper,
+  .community-search-city-container h3.center,
+  .homes-heading h2 {
+    font-size: 24px;
+    line-height: 1.3;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper .card-image-wrapper img {
+    width: 100%;
+  }
+
+  .houston-landing-page .views-element-container .home-location-wrapper {
+    width: 100%;
+    margin: 0 0 50px;
+  }
+
+  .houston-landing-page .views-element-container .city-name-wrapper h3 {
+    padding: 10px 5px;
+    font-size: 20px;
+  }
+
+  .houston-landing-page .views-element-container .homes-card .detail .detail-text {
+    font-size: 18px;
+  }
+
+  .houston-landing-page .views-element-container .homes-card .detail .icon {
+    margin-left: 1px;
+  }
+
+  .explore-communities-div .community-btn-wrapper a {
+    width: 330px;
+    height: 50px;
+  }
+
+  .explore-communities-div .community-btn-wrapper span {
+    font-size: 18px;
+  }
+
+  .explore-communities-div .community-btn-wrapper img {
+    margin-right: 20px;
+  }
+
+}
+
+@media (max-width: 480px) {
+  .community-search-city-container.communities-page {
+    padding-top: 180px;
+  }
+
+  .home-banner-image .banner-text {
+    top: 180px;
+  }
+
+  .home-banner-image .banner-text h1 {
+    font-size: 25px;
+  }
+
+}
+
+@media (max-width: 374px) {
+  .explore-communities-div .community-btn-wrapper span {
+    padding-left: 20px;
+    font-size: 16px;
+  }
+
+  .explore-communities-div .community-btn-wrapper a {
+    width: 300px;
+  }
+}
+
+
+
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+}
+canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  border: 2px solid white;
+}
